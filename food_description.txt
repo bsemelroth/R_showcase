@@ -1,0 +1,21 @@
+==========================================================================
+Evolution of Taste with Age Dataset
+==========================================================================
+Adapted from https://www.kaggle.com/vanvalkenberg/evolution-of-taste-with-age/
+==========================================================================
+
+Data Dictionary
+
+COLUMN TYPE DESCRIPTION
+Age         integer     The respondent's age as a whole number in years
+Gender      factor      The respondent's gender
+Continent   factor      The respondent's home location
+Race        factor      The respondent's race
+Sushi       boolean     Whether the respondent has consumed sushi. {False:0, True:1}
+Alligator   boolean     Whether the respondent has consumed alligator. {False:0, True:1}
+FrogLegs    boolean     Whether the respondent has consumed frog legs. {False:0, True:1}
+Caviar      boolean     Whether the respondent has consumed caviar. {False:0, True:1}
+Fugu        boolean     Whether the respondent has consumed fugu. {False:0, True:1}
+Lutefisk    boolean     Whether the respondent has consumed lutefisk. {False:0, True:1}
+
+==========================================================================
